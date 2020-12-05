@@ -1,0 +1,15 @@
+ID: 1002
+User: u1@abc.com
+Balance: 19.0
+Suspended?: false
+
+ID: 1001
+User: u2@abc.com
+Balance: 19.0
+Suspended?: false
+
+ID: 1000
+User: u1@abc.com
+Balance: 11.0
+Suspended?: false
+

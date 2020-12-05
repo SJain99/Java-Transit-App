@@ -1,0 +1,10 @@
+1000 enters T9 station at 1100 on day 1
+1000 exits T5 station at 1115 on day 1
+1000 enters T5 stop at 1140 on day 1
+1000 exits D3 stop at 1150 on day 1
+1000 enters D3 stop at 1215 on day 1
+1000 exits D5 stop at 1225 on day 1
+1000 enters D5 stop at 1259 on day 1
+1000 exits D7 stop at 1310 on day 1
+1000 enters D7 stop at 1340 on day 1
+1000 exits D9 stop at 1410 on day 1
